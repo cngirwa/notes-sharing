@@ -58,10 +58,15 @@ Cards and Colors
 
 
 ## Exercise 7
-AsyncTask and AsyncTaskLoader
+AsyncTask and AsyncTaskLoader(Emulator)
 7.2
 
 ![Exercise 7.2](./images/ex7.2.png)
+
+AsyncTask and AsyncTaskLoader(Real device)
+7.2
+
+![Exercise 7.21](./images/ex7.21.png)
 
 ## Exercise 8
 Notifications
