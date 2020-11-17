@@ -62,3 +62,9 @@ AsyncTask and AsyncTaskLoader
 7.2
 
 ![Exercise 7.2](./images/ex7.2.png)
+
+## Exercise 8
+Notifications
+8.1
+
+![Exercise 8.1](./images/ex8.1.png)
