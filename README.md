@@ -35,7 +35,7 @@ The App uses SQLite database to store data locally, and firebase realtime databa
 
 # Note Sharing App (Final Project)
 
-- [NShare](./GGoogleSign)
+- [NShare](./NShare)
 
 # Practical Report (Report)
 
