@@ -28,6 +28,7 @@ The App uses SQLite database to store data locally, and firebase realtime databa
 1. Good user interface.
 2. More functionality (example: Color notes by their priority, create a collaborative notes sharing).
 3. Online backup of database (automatic or on-demand).
+
 Further detailed information can be found on [report](./Final.pdf).
 
 # Class Practices (Assignments)
