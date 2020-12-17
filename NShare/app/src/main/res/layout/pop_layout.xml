@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv_image"
+        android:layout_width="86dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        app:civ_border_color="#FFFFFF"
+        app:civ_border_width="1dp" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="N/A"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:textSize="10sp" />
+
+
+    <!--    <EditText-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/etName"-->
+    <!--        android:hint="Your full name"-->
+    <!--        />-->
+
+    <!--    <EditText-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/etPhone"-->
+    <!--        android:inputType="phone"-->
+    <!--        android:hint="Your phone number"-->
+    <!--        />-->
+
+    <!--    <EditText-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/etDesignation"-->
+    <!--        android:hint="Your designation"-->
+    <!--        />-->
+
+    <!--    <EditText-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/etCampus"-->
+    <!--        android:hint="Your campus"-->
+    <!--        />-->
+
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/colorAccent"
+        android:text="Close"
+        android:textColor="@color/white" />
+
+</LinearLayout>
